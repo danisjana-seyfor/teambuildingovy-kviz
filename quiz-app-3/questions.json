@@ -1,0 +1,14 @@
+[
+  {"text":"Kdo je označen jako „Král výsledků“?","options":["Karel","David","Jakub","Radim"],"answer":0},
+  {"text":"Kdo je známý jako „Terminátor SOC“?","options":["Honza","Dan","Filip","Jiří"],"answer":0},
+  {"text":"Kdo má jako parťáka 3D tiskárnu?","options":["Lukáš","Radim","Mathias","Zdeněk"],"answer":1},
+  {"text":"Kdo si pořídil minibagr?","options":["Peter","Mathias","Jirka P.","Tomáš"],"answer":1},
+  {"text":"Kdo je známý svou láskou k Arsenalu?","options":["Jan M.","Dženan","Martin","Karel"],"answer":0},
+  {"text":"Kdo rád jezdí na Madeiru?","options":["Peter","Radim","Jiří","Lukáš"],"answer":1},
+  {"text":"Kdo peče chleba celému Ústí?","options":["Olga","Pavla","Eliška","Katka"],"answer":0},
+  {"text":"Kdo je v prezentaci „Princezna z MS“?","options":["Katka","Jana","Eliška","Monika"],"answer":0},
+  {"text":"Kdo je největší evangelista firewallů?","options":["Dan","Honza","Dženan","Filip"],"answer":0},
+  {"text":"Kdo má podpisovou hlášku „Nemám vás rád“?","options":["Tomáš","Lukáš","Zdeněk","Jirka P."],"answer":0},
+  {"text":"Kdo má rád Volvo, klid a nadhled?","options":["Zdeněk","Peter","Martin","Karel"],"answer":0},
+  {"text":"Kdo je popsaný jako „Tichý motor týmu“?","options":["Pavla","Jana","Eliška","Olga"],"answer":0}
+]
